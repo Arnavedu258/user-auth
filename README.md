@@ -294,7 +294,7 @@ Backend Developer | Java Developer
 
 GitHub: https://github.com/Arnavedu258
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/arnavedu258
 
 ---
 
